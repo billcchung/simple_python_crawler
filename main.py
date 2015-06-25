@@ -1,6 +1,5 @@
 import sys
 import os
-import requests
 
 # append the lib folder to PYTHONPATH
 lib_path = os.path.join(os.path.dirname(__file__), 'lib')

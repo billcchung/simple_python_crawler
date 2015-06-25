@@ -2,7 +2,6 @@
 A simple python cralwer 
 
 # Prerequisites
-- Python 2.7.x
-- Python-Requests (http://docs.python-requests.org/en/latest/)
+- Python 3.4.x
 - lxml (http://lxml.de/)
 
